@@ -36,3 +36,20 @@
     transform: rotate(360deg);
   }
 }
+
+.img{
+  background-color: red;
+  border-radius: 50%;
+  margin-left: 20px;
+  width: 100px;
+  font-weight: 200;
+}
+#navbarSupportedContent{
+  font-size:x-large;
+  margin-left: 70px;
+}
+
+.bar:hover{
+  text-decoration: underline;
+
+}
